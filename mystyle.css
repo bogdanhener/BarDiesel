@@ -1,8 +1,9 @@
 a:link {
   text-decoration: none;
+  font-family: "Montserrat", serif;
 }
 p {
-  font-family: "Montserrat", Times, serif;
+  margin:auto;
 }
 .logo{
  margin:auto;
