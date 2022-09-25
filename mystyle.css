@@ -3,6 +3,8 @@ a:link {
 }
 p {
   text-align:center;
+  margin-top:200px;
+  font-size:50px;
 }
 img {
   display: block;
