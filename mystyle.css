@@ -13,12 +13,11 @@ p {
   color:#000000;
 }
 .logo {
+  width: 80%;
   display:flex;
   justify-content:center;
-  margin:auto;
 }
 .santa{
-  margin:auto;
   width: 80%;
   display:flex;
   justify-content:center;
