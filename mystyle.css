@@ -1,3 +1,7 @@
+body{
+ background: linear-gradient(white, black);
+}
+
 a:link, a:visited {
   background-color: #000000;
   color: white;
