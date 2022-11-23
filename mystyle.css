@@ -12,11 +12,9 @@ p {
   font-size:70px;
   color:#000000;
 }
-.logo0 {
+.logo {
   display: block;
   margin:auto;
-  width:400px;
-  height:400px;
 }
 .santa{
   margin:auto;
