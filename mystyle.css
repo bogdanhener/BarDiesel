@@ -3,7 +3,7 @@ body{
 }
 
 a:link, a:visited {
-  background-color: linear-gradient(white, black);
+  background-color: linear-gradient(red, white);
   color: white;
   padding: 15px 25px;
   text-align: center;
