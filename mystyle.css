@@ -27,8 +27,4 @@ p {
   display:flex;
   justify-content:center;
 }¨
-canvas {
-  display:block;
-  margin:auto;
-  background:#ecf0f1;
-}
+
