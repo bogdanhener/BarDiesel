@@ -8,7 +8,19 @@
   </div>
   
   <p>
-    <a href="meniu-final-6.pdf">Apasă aici pentru Meniu!</a>
+    <a href="meniu-final-6.pdf">
+    svg(viewBox="0 0 600 300")
+  // Symbol
+  symbol#s-text
+    text(text-anchor="middle", x="50%", y="50%", dy=".35em")
+      | Apasa aici !
+  // Duplicate symbols
+  use.text(xlink:href="#s-text")
+  use.text(xlink:href="#s-text")
+  use.text(xlink:href="#s-text")
+  use.text(xlink:href="#s-text")
+  use.text(xlink:href="#s-text")
+    </a>
   </p>
   <div>
      <img class="santa" src="santa-diesel.png" alt="Mos Craciun">  
