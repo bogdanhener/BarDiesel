@@ -90,5 +90,17 @@ body{
   }
   #bodo{
 	color: #f9002f;
-	  padding-bottom:10px;
+	padding-bottom: 10px;
   }
+ #insta{
+	height: 50px;
+
+ }
+ #tik{
+	height: 50px;
+	
+ }
+ .container2{
+	display: flex;
+	justify-content: center;
+ }
