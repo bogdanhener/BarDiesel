@@ -83,4 +83,11 @@ body{
 	  font-size: 6.5rem;
 	}
   }
-
+  footer{
+	color: aqua;
+	text-align: center;
+    margin-top: 20px;
+  }
+  #bodo{
+	color: #f9002f;
+  }
