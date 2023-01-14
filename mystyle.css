@@ -87,7 +87,7 @@ body{
   footer{
 	color: aqua;
 	text-align: center;
-    margin-top: 50px;
+    margin-top: 150px;
   }
   #bodo{
 	color: #f9002f;
@@ -107,5 +107,5 @@ body{
  .container2{
 	display: flex;
 	justify-content: center;
-	 margin:20px;
+	 margin:150px;
  }
