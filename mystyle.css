@@ -19,15 +19,15 @@ body{
    }
    .narghilea{
 	 margin:auto;
-	 
+	 width:90%;
 	 display:flex;
 	 justify-content:center;
    }
    :root {
 	--color-1: #000000;
-	--color-2: #ffffff;
+	--color-2: #f50f0f;
 	--color-3: #000000;
-	--color-4: #ffffff;
+	--color-4: #f50f0f;
 	--color-5: #000000;
   }
   
