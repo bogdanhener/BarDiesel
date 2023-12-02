@@ -24,11 +24,11 @@ body{
 	 justify-content:center;
    }
    :root {
-	--color-1: #0341fc;
-	--color-2: #ecfc03;
-	--color-3: #f50f0f;
-	--color-4: #0341fc;
-	--color-5: #ecfc03;
+	--color-1: #000000;
+	--color-2: #ffffff;
+	--color-3: #000000;
+	--color-4: #ffffff;
+	--color-5: #000000;
   }
   
   
